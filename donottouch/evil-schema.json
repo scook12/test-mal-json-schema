@@ -9,5 +9,5 @@
     "toString": "function() { console.log(\"ACK\") }"
   },
   "data": [],
-  "properties": "function() { return 'evil' }"
+  "properties": "function evil() { return 'evil' }"
 }
