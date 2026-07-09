@@ -1,0 +1,6 @@
+{
+  "__proto__": {
+    "toString": "function() { console.log(\"ACK\") }"
+  },
+  "properties": "function() { console.log('EVIL') }"
+}

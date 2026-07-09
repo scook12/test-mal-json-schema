@@ -1,0 +1,16 @@
+{
+  "name": "test-mal-json-schema",
+  "version": "0.0.0",
+  "description": "A test repo used for very important work.",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest src"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1"
+  }
+}
