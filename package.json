@@ -4,11 +4,12 @@
   "description": "A test repo used for very important work.",
   "license": "MIT",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "jest src"
   },
+  "bin": "./index.js",
   "dependencies": {
     "ajv": "^8.20.0",
     "ajv-formats": "^3.0.1"
